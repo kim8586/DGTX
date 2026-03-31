@@ -915,7 +915,7 @@ style={{
                 <div className="w-full flex flex-col lg:flex-row justify-between items-center gap-6 px-4">
                   <div className="flex items-center gap-4">
                     <div className="p-2 bg-white/20 rounded-xl">
-  <img src="/graduation.png" alt="graduation" className="w-6 h-6" />
+ <img src="./graduation.png" class="w-6 h-6" />
 </div>
 
                     <div className="flex flex-col">
